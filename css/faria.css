@@ -1,0 +1,136 @@
+.open-sens{
+     font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+nav ul li a{
+
+text-decoration: none;
+color: black;
+
+}
+
+nav ul li{
+    list-style: none;
+   margin-right: 51px;
+    
+}
+
+nav li{
+    display: flex;
+   align-items: center;
+
+}
+nav ul{
+  display: flex;
+    margin-right: 51px;  
+
+}
+nav{
+    justify-content:space-between;
+    display: flex;
+    align-items: center;
+}
+.hello{
+
+    color: #FD6E0A;
+}
+h3{
+    font-weight: 800;
+}
+.header-bg{
+    background-image: url('../css/images/header_bg.png');
+background-repeat: no-repeat; 
+background-position: right bottom;
+
+}
+.faria{
+
+    background-image: url('../css/images/developer.png');
+    background-repeat: no-repeat;
+  background-position: left;
+  
+}
+.btn-hello{
+
+        background-color: #FD6E0A;
+        font-weight: bold;
+        color: white;
+        border-radius: 2px;
+        padding: 18px 35px ;
+        font-size: 20px;
+        border: none;
+}
+
+.banner{
+
+  display: flex;  
+  justify-content: space-between;
+}
+
+.banner-conttent{
+
+    height: 356px;
+    width: 585px;
+    margin-left: 230px;
+
+}
+
+.right{
+
+    font-size: 45px;
+    margin-top: 51px;
+    margin-left: 210px;
+    font-weight: 800;
+}
+
+.header-bg{
+
+background-color: #FFF8F3;  
+}
+.img-greetings{
+
+   font-weight: 400px; 
+   font-size: 45px; 
+}
+
+.banner-title{
+
+    font-size: 85px;
+}
+.diva{
+    display: flex;
+    justify-content: space-around;
+}
+.info{
+
+ text-align: center;
+}
+.about{
+    text-align: center;
+    padding: 131px 157px;
+    background-color: #FFF8F3;
+    margin: 115px;
+    
+}
+.main-about{
+
+    font-size: 35px;
+    font-weight: bold;
+}
+.skills{
+
+    display: flex;
+    text-align: center;
+    padding: 40px;
+    background-color: ;
+}
+.skill{
+    background-color: antiquewhite;
+   padding: 10px;
+    margin: 10px;
+}
